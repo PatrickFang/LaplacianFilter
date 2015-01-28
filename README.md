@@ -2,6 +2,7 @@ The program is coded based on
 http://people.csail.mit.edu/sparis/publi/2011/siggraph/
 The code consists of my C++ implementation and some MEX code from the original source.
 The code is natively built with little optimizations. 
+The code also consists undeleted commented out code that were used for testing during development.
 
 - How to compile the code: simply use make command under the program directory.
 
