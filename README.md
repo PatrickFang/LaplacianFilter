@@ -1,3 +1,8 @@
+The program is coded based on 
+http://people.csail.mit.edu/sparis/publi/2011/siggraph/
+The code consists of my C++ implementation and some MEX code from the original source.
+The code is natively built with little optimizations. 
+
 - How to compile the code: simply use make command under the program directory.
 
 - How to run the code:       the program can take up to 4 arguments in the following order
