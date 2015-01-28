@@ -14,3 +14,5 @@ upsample.o: upsample.cpp upsample.h
 	g++ -c upsample.cpp upsample.h
 reconstruct_laplacian_pyramid.o: reconstruct_laplacian_pyramid.cpp reconstruct_laplacian_pyramid.h
 	g++ -c reconstruct_laplacian_pyramid.cpp reconstruct_laplacian_pyramid.h
+clean:
+	$(RM) *.o *~ $(main)
