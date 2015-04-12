@@ -19,4 +19,5 @@ The code also consists undeleted commented out code that were used for testing d
 - Can use the Preprocessor option of resizing the input image to its 1/4 size, which locates at line 24 of main. to reduce run time
 
 - The program only takes coloured image, so the ones with RBG, 3 channels
+- testing 
 
